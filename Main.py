@@ -42,17 +42,6 @@ async def on_message(message):
 
 
 
-"""@client.command()
-async def ban(ctx, member : discord.Member, *, reason=None):
-    await member.kick(reason=reason)
-"""
-
-"""@client.command()
-async def kick(ctx, member : discord.)
-"""
-
-
-
 
 
 access_token = os.environ["BOT_TOKEN"]
